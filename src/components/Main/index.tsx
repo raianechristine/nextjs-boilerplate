@@ -1,4 +1,4 @@
-import * as S from './styles';
+import * as S from './styles'
 
 const Main = ({
   title = 'Advanced React',
@@ -17,7 +17,7 @@ const Main = ({
         alt="Developer in front of a screen with code"
       />
     </S.Wrapper>
-  );
-};
+  )
+}
 
-export default Main;
+export default Main
